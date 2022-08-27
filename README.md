@@ -1,1 +1,1 @@
-Source code for the article **Impact of astrocytic coverage of synapses and spatial frequencies on the working memory of a computational neuron-astrocyte network**.
+Source code for the article **Impact of astrocytic coverage of synapses and spatial frequencies on the working memory of a computational neuron-astrocyte network**. It is built upon https://github.com/altergot/neuro-astro-network
